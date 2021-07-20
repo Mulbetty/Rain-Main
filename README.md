@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sangwz
+- 👋 Hi, I’m @Rain-Main
 - 👀 I’m interested in CV 
 - 🌱 I’m currently learning TensorRT, C++
 - 💞️ I’m looking to collaborate on ...
